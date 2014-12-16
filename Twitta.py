@@ -10,11 +10,6 @@ from PyQt4.QtGui import *
 import sys
 import mainwindow
 
-	#Authorization Key/Token for Twitter requests
-CONSUMER_KEY ="rCL84xdkVKzEjJML1mavTV1Cz"
-CONSUMER_SECRET ="0rr7VxMzwGp5zAeuNAAgNx99wIFHk7EolsD2cEeJJoLMIssX5B"
-ACCESS_TOKEN ="251142396-cjjq9jzNIx7Iad93lhvigbTtsGWWzUSxYOqVGyZb"
-ACCESS_TOKEN_SECRET ="ciNwHD3cV1rVtjELYcEo6Oq7cM4kBAjxCt0OtPhFOodVQ"
 
 	#Number of posts taken
 N_POSTS = 5
